@@ -1,0 +1,15 @@
+.site-layout-content {
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  background: #cce6f6;
+  height: auto;
+}
+.layout{
+  height: 100vh;
+  background-color: rgb(23, 32, 59);
+}
+.header{
+  background-color: rgb(23, 32, 59);
+}
